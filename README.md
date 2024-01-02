@@ -1,7 +1,8 @@
 # RIFE ncnn Vulkan
 # GUI in python for convenience
 ![rife](gui.png)
-README.md
+
+ 
 # Guide to convert your own models:
 
 https://github.com/TNTwise/REAL-Video-Enhancer/wiki/Convert-Rife-Models
