@@ -31,7 +31,7 @@ jobs:
       run: |
         mkdir build
         cd build
-        cmake -G "NMake Makefiles" ..
+        cmake -G "NMake Makefiles" ../src
 
     - name: Build
       run: |
