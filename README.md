@@ -1,6 +1,6 @@
 # RIFE ncnn Vulkan
 # GUI in python for convenience
-![Image Alt Text](https://github.com/2blackbar/rife-ncnn-vulkanfix/edit/master/gui.png)
+![rife](gui.png)
 README.md
 # Guide to convert your own models:
 
